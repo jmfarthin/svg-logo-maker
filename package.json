@@ -1,0 +1,27 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "This project is an application that will create an SVG logo based on user input.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmfarthin/svg-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmfarthin/svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/jmfarthin/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

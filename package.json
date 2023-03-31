@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jmfarthin/svg-logo-maker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "inquirer-maxlength-input-prompt": "^1.0.2"
   }
 }

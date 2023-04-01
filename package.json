@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/jmfarthin/svg-logo-maker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "inquirer-maxlength-input-prompt": "^1.0.2"
+    "inquirer-maxlength-input-prompt": "^1.0.2",
+    "jest": "^24.9.0"
   }
 }
